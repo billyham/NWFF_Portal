@@ -1,0 +1,69 @@
+
+        first name: Dave
+        last name: Hanagan
+        title: new project
+        time of submission: 2012-05-26 15:19:46
+        
+        short description: '
+
+        email: dave@nwfilmforum.org
+        address: 
+        city: 
+        state: 
+        zip: 
+        phone: 
+        director first name: 
+        director last name: 
+        additional directors: 
+        producers: 
+
+        synopsis: 
+
+        production description: d''''"""
+        production timeline: 
+        
+        artist statement: 
+
+
+        bio 1 
+
+        bio 2 
+
+        bio 3 
+        
+        bio 4: 
+
+
+        funding narrative: v'
+        
+        funds secured: 
+
+        distribution plan: 
+        
+        budget: 
+
+
+
+        work sample 1 title: 
+        trt: 
+        description: '
+        link: 
+        work sample provided on DVD? no
+
+        work sample 2 title: 
+        trt: 
+        description: 
+        link: 
+        work sample provided on DVD? no
+
+        work sample 3 title: 
+        trt: 
+        description: 
+        link: 
+        work sample provided on DVD? no
+
+
+
+
+
+
